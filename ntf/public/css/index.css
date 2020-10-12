@@ -1,0 +1,16 @@
+/* 主页面样式 */
+/* 小喇叭 免邮消息 */
+.my_top_msg{padding-left: 130px; background-color: #efefef; height: 32px; 
+	line-height: 34px;}
+.my_top_msg a:hover{text-decoration: none; color: #5d5d5d;}
+/* 轮播图 */
+.carousel-indicators li{width: 0.8rem; height: 0.8rem;border-radius: 50%;}
+.carousel-indicators .active{background-color: white;}
+.carousel-control-next{margin-right: 50px;}
+.carousel-control-prev{margin-left: 50px;}
+/* 加入会员 */
+.vip_page{width: 1140px; margin: 0 auto; margin-top: 60px;}
+/* 男女优选 */
+.sex_change{height: 60px; line-height: 60px; margin: 0 auto; margin-top: 30px; width: 320px; font-size: 16px;}
+.sex_change a{color: #767676;}
+.sex_change a:hover{color: #6bc1ff; text-decoration: none;}
